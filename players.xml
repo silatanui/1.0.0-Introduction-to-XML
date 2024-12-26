@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topFootballers>
+  <player>
+    <name>Vinicius Junior</name>
+    <club>Real Madrid</club>
+    <country>Brazil</country>
+    <image>https://img.uefa.com/imgml/TP/players/1/2025/324x324/250121533.jpg</image>
+    <flagColor>green</flagColor>
+    <description>Vinicius Junior is a talented winger known for his speed and dribbling skills.</description>
+    <age>23</age>
+  </player>
+  <player>
+    <name>Mohamed Salah</name>
+    <club>Liverpool</club>
+    <country>Egypt</country>
+    <image>https://sites.duke.edu/wcwp/files/2020/02/Picture1.png</image>
+    <flagColor>red</flagColor>
+    <description>Mohamed Salah is a prolific forward with exceptional goal-scoring ability.</description>
+    <age>31</age>
+  </player>
+  <player>
+    <name>Rodri</name>
+    <club>Manchester City</club>
+    <country>Spain</country>
+    <image>https://www.mancity.com/meta/media/cfzdcpm2/rodrigo.png</image>
+    <flagColor>red</flagColor>
+    <description>Rodri is a strong defensive midfielder known for his passing and tackling.</description>
+    <age>27</age>
+  </player>
+  <player>
+    <name>Erling Haaland</name>
+    <club>Manchester City</club>
+    <country>Norway</country>
+    <image>https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250103758.webp</image>
+    <flagColor>red</flagColor>
+    <description>Erling Haaland is a prolific striker with incredible goal-scoring instincts.</description>
+    <age>21</age>
+  </player>
+  <player>
+    <name>Harry Kane</name>
+    <club>Bayern Munich</club>
+    <country>England</country>
+    <image>https://assets.bundesliga.com/player/dfl-obj-j00zz3-dfl-clu-00000g-dfl-sea-0001k8.png</image>
+    <flagColor>white</flagColor>
+    <description>Harry Kane is a world-class striker known for his goal-scoring consistency.</description>
+    <age>30</age>
+  </player>
+  <player>
+    <name>Robert Lewandowski</name>
+    <club>Barcelona</club>
+    <country>Poland</country>
+    <image>https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250002096.webp</image>
+    <flagColor>white</flagColor>
+    <description>Robert Lewandowski is a prolific forward with exceptional aerial ability.</description>
+    <age>36</age>
+  </player>
+  <player>
+    <name>Kylian Mbappe</name>
+    <club>Real Madrid</club>
+    <country>France</country>
+    <image>https://assets.laliga.com/squad/2024/t186/p220160/1024x1024/p220160_t186_2024_1_002_000.jpg</image>
+    <flagColor>blue</flagColor>
+    <description>Kylian Mbappe is a fast and skillful forward known for his goal-scoring prowess.</description>
+    <age>25</age>
+  </player>
+  <player>
+    <name>Jude Bellingham</name>
+    <club>Real Madrid</club>
+    <country>England</country>
+    <image>https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250128377.webp</image>
+    <flagColor>white</flagColor>
+    <description>Jude Bellingham is a versatile midfielder known for his physicality and vision.</description>
+    <age>20</age>
+  </player>
+  <player>
+    <name>Lamine Yamal</name>
+    <club>Barcelona</club>
+    <country>Spain</country>
+    <image>https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250176450.webp</image>
+    <flagColor>red</flagColor>
+    <description>Lamine Yamal is a promising young winger known for his dribbling and pace.</description>
+    <age>17</age>
+  </player>
+  <player>
+    <name>Lionel Messi</name>
+    <club>Inter Miami</club>
+    <country>Argentina</country>
+    <image>https://cdn.nos.nl/image/2019/09/24/579671/576x576a.jpg</image>
+    <flagColor>blue</flagColor>
+    <description>Lionel Messi is a legendary forward known for his incredible dribbling and goal-scoring ability.</description>
+    <age>37</age>
+  </player>
+</topFootballers>
